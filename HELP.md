@@ -10,3 +10,5 @@ The following guides illustrates how to use certain features concretely:
 
 
 用于记录《Thinking in java》中自己认为一些比较好的代码
+
+chapter12:通过异常处理错误
