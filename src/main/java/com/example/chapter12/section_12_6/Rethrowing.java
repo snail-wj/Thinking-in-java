@@ -1,7 +1,7 @@
 package com.example.chapter12.section_12_6;
 
 /**
- * @author wangjing06
+ * @author wangjing
  * Created on 2019-03-20
  */
 public class Rethrowing {

@@ -1,7 +1,7 @@
 package com.example.chapter12.section_12_6;
 
 /**
- * @author wangjing06
+ * @author wangjing
  * Created on 2019-03-20
  * 表明元素0是栈顶元素，并且是调用序列中的最后一个方法的调用
  * 数组中的最后一个元素和栈底是调用序列中的第一个方法调用
